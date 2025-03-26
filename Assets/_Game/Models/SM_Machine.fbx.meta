@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: 316283610d4c3ea4ab0ec03c22125292
+guid: 9949cd2967ad73a43a9b4a454e5cea82
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UV_Map
+    second: {fileID: 2100000, guid: 05995033382cfee4e9f8d1265c3abf29, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
